@@ -1,7 +1,8 @@
 """
 Manual codigo
 
-El programa se ejecutara simplemente ejecutando el archivo .py con el codigo fuente donde se desplegara el respectivo menu. Todo este archivo esta escrito en python por lo solo debe cambiar la extencion y ejecutarlo con python.
+El programa se ejecutara simplemente ejecutando el archivo .py con el codigo fuente donde se desplegara el respectivo menu. 
+Todo este archivo esta escrito en python por lo solo debe copiar, pegar y ejecutarlo con python.
 
 Generar claves: 
 • Selecciona esta opcion para generar claves RSA y fragmentar una clave usando el esquema de comparticion de secretos de Shamir. 
